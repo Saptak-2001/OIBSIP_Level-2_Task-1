@@ -1,6 +1,6 @@
 # CALCULATOR
 
-This repository contains the completed first task for Level-2 which is a basic calculator with the functionalities like addition, subtraction, multiplication & division with the help of HTML, CSS and JavaScript.
+This repository contains building a basic calculator with the functionalities like addition, subtraction, multiplication & division with the help of HTML, CSS and JavaScript.
 
 ## Description
 
