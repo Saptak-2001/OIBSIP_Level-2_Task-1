@@ -1,4 +1,4 @@
-# OIBSIP_Level-2_Task-1
+# CALCULATOR
 
 This repository contains the completed first task for Level-2 which is a basic calculator with the functionalities like addition, subtraction, multiplication & division with the help of HTML, CSS and JavaScript.
 
